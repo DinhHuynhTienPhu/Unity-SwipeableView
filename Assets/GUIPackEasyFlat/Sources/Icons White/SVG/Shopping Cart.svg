@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g id="Shopping-Cart" serif:id="Shopping Cart" transform="matrix(0.500855,0,0,0.500855,-5.05343,-12.802)">
+        <g transform="matrix(0.863876,0,0,0.863876,40.8878,46.4131)">
+            <g transform="matrix(1,0,0,1,33.4126,3.5384)">
+                <circle cx="169.994" cy="419.682" r="55.813" style="fill:white;"/>
+            </g>
+            <g transform="matrix(1,0,0,1,227.342,3.5384)">
+                <circle cx="169.994" cy="419.682" r="55.813" style="fill:white;"/>
+            </g>
+        </g>
+        <path d="M79.536,102.008C79.536,102.008 92.391,113.815 103.942,124.423C115.653,135.18 123.853,149.216 127.471,164.701C133.873,192.102 144.54,237.753 152.531,271.956C158.705,298.378 182.264,317.067 209.397,317.067L427.382,317.067" style="fill:none;stroke:white;stroke-width:43.92px;"/>
+        <g transform="matrix(0.679157,0,0,0.944839,113.328,46.8981)">
+            <path d="M496.548,97.859C500.082,90.198 498.281,81.783 491.708,75.239C485.135,68.695 474.59,64.819 463.362,64.819C389.967,64.819 210.559,64.819 140.546,64.819C130.028,64.819 120.068,68.223 113.429,74.087C106.789,79.95 104.175,87.651 106.312,95.054C116.126,129.067 131.79,183.35 140.195,212.48C143.561,224.145 157.857,232.508 174.43,232.508C223.122,232.508 362.806,232.508 409.202,232.508C424.272,232.508 437.647,225.567 442.389,215.285C455.11,187.703 480.273,133.145 496.548,97.859Z" style="fill:white;"/>
+        </g>
+    </g>
+</svg>

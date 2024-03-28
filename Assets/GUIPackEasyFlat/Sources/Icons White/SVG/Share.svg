@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="Share" transform="matrix(0.966968,0,0,0.966968,-34.383,-31.5497)">
+        <g transform="matrix(1,0,0,1,0,-1.50201)">
+            <g transform="matrix(0.5,0.866025,-0.866025,0.5,197.851,-160.205)">
+                <g transform="matrix(1.02928,0,0,1.02928,-7.24668,-0.548844)">
+                    <circle cx="233.164" cy="97.289" r="40.231" style="fill:white;"/>
+                </g>
+                <g transform="matrix(0,-1,1,0,112.71,336.291)">
+                    <rect x="110.535" y="111.497" width="131.853" height="17.074" style="fill:white;"/>
+                </g>
+            </g>
+            <g transform="matrix(0.5,-0.866025,-0.866025,-0.5,197.851,493.209)">
+                <g transform="matrix(1.02928,0,0,1.02928,-7.24668,-0.548844)">
+                    <circle cx="233.164" cy="97.289" r="40.231" style="fill:white;"/>
+                </g>
+                <g transform="matrix(0,-1,1,0,112.71,336.291)">
+                    <rect x="110.535" y="111.497" width="131.853" height="17.074" style="fill:white;"/>
+                </g>
+            </g>
+        </g>
+        <g transform="matrix(1.02928,0,0,1.02928,-144.518,64.8626)">
+            <circle cx="233.164" cy="97.289" r="40.231" style="fill:white;"/>
+        </g>
+    </g>
+</svg>

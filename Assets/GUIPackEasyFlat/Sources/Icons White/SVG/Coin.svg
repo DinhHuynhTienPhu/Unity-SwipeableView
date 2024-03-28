@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <path id="Coin" d="M128,19.949C187.635,19.949 236.051,68.365 236.051,128C236.051,187.635 187.635,236.051 128,236.051C68.365,236.051 19.949,187.635 19.949,128C19.949,68.365 68.365,19.949 128,19.949ZM128,55.305C168.122,55.305 200.695,87.878 200.695,128C200.695,168.122 168.122,200.695 128,200.695C87.878,200.695 55.305,168.122 55.305,128C55.305,87.878 87.878,55.305 128,55.305ZM128,65.638C162.418,65.638 190.362,93.582 190.362,128C190.362,162.418 162.418,190.362 128,190.362C93.582,190.362 65.638,162.418 65.638,128C65.638,93.582 93.582,65.638 128,65.638Z" style="fill:white;"/>
+</svg>

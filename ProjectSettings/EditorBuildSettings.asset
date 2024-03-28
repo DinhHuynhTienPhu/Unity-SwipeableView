@@ -6,6 +6,12 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 99c9720ab356a0642a771bea13969a05
+    path: Assets/_TinderClone/LoginScreen.unity
+    guid: 3486d413cb6094854b49c860c154be01
+  - enabled: 1
+    path: Assets/Photon/PhotonChat/Demos/DemoChat/DemoChat-Scene.unity
+    guid: ec07267f6a28fb044ac89845274e79af
+  - enabled: 1
+    path: Assets/_TinderClone/SwipeScreen.unity
+    guid: 2e9d9052bdea07f44af219867b076653
   m_configObjects: {}

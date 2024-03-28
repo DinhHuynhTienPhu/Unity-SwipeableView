@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="Cloud---Smile" serif:id="Cloud - Smile" transform="matrix(0.839331,0,0,1.15729,-3396.18,-633.027)">
+        <g transform="matrix(1.43842,0,0,1.04322,2317.24,128.133)">
+            <circle cx="1308.07" cy="507.523" r="64.104" style="fill:white;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,-1.35926,0)">
+            <g transform="matrix(1.79042,0,0,1.29851,1804.85,-26.9055)">
+                <circle cx="1385.36" cy="543.932" r="34.709" style="fill:white;"/>
+            </g>
+            <g transform="matrix(1.32831,0,0,0.963365,2258.85,167.025)">
+                <circle cx="1385.36" cy="543.932" r="34.709" style="fill:white;"/>
+            </g>
+        </g>
+        <g transform="matrix(1.06334,0,0,1.04322,2806.22,127.56)">
+            <rect x="1213.39" y="539.202" width="176.238" height="32.974" style="fill:white;"/>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="Emoji---Big-Smile" serif:id="Emoji - Big Smile" transform="matrix(1.29117,0,0,1.29117,-37.27,-37.27)">
+        <g transform="matrix(1.57425,0,0,1.57425,-7945.93,-2214.41)">
+            <circle cx="5128.76" cy="1487.95" r="61.734" style="fill:rgb(255,216,0);"/>
+        </g>
+        <g transform="matrix(1,0,0,1,9.09495e-12,-13.7888)">
+            <g transform="matrix(5.44249,1.45831,-1.13733,4.24456,-25802.5,-11366.3)">
+                <circle cx="4965.19" cy="1006.27" r="3.19" style="fill:rgb(255,158,6);"/>
+            </g>
+            <g transform="matrix(5.44249,-1.45831,1.13733,4.24456,-27987.4,3115.25)">
+                <circle cx="4965.19" cy="1006.27" r="3.19" style="fill:rgb(255,158,6);"/>
+            </g>
+        </g>
+        <g transform="matrix(3.21574,0,0,3.21574,-15913.9,-2826.2)">
+            <g transform="matrix(1,0,0,1,11.4594,-94.4737)">
+                <circle cx="4965.19" cy="1006.27" r="3.19" style="fill:rgb(41,47,52);"/>
+            </g>
+            <g transform="matrix(1,0,0,1,35.3107,-94.4737)">
+                <circle cx="4965.19" cy="1006.27" r="3.19" style="fill:rgb(41,47,52);"/>
+            </g>
+        </g>
+        <g transform="matrix(3.44158,0,0,3.44158,-38181.4,-1255.58)">
+            <path d="M11126.3,402.179L11126.3,399.495C11126.3,399.003 11126.7,398.604 11127.2,398.604L11135.6,398.604C11136.1,398.604 11136.5,399.003 11136.5,399.495L11136.5,402.179C11136.5,404.989 11134.2,407.27 11131.4,407.27C11128.6,407.27 11126.3,404.989 11126.3,402.179Z" style="fill:rgb(130,10,0);"/>
+            <clipPath id="_clip1">
+                <path d="M11126.3,402.179L11126.3,399.495C11126.3,399.003 11126.7,398.604 11127.2,398.604L11135.6,398.604C11136.1,398.604 11136.5,399.003 11136.5,399.495L11136.5,402.179C11136.5,404.989 11134.2,407.27 11131.4,407.27C11128.6,407.27 11126.3,404.989 11126.3,402.179Z"/>
+            </clipPath>
+            <g clip-path="url(#_clip1)">
+                <g transform="matrix(0.235174,0,0,0.235174,9429.55,216.642)">
+                    <circle cx="7236.38" cy="818.842" r="25.228" style="fill:rgb(236,33,0);"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

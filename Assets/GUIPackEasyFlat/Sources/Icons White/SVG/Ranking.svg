@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="Ranking" transform="matrix(0.518671,0,0,0.518671,-1.66782,-1.66782)">
+        <path id="Path" d="M73,145C106.138,145 133,171.862 133,205L133,425C133,458.138 106.138,485 73,485C39.862,485 13,458.138 13,425L13,205C13,171.862 39.862,145 73,145Z" style="fill:white;"/>
+        <path id="Path1" serif:id="Path" d="M250,15C283.138,15 310,41.862 310,75L310,425C310,458.138 283.138,485 250,485C216.862,485 190,458.138 190,425L190,75C190,41.862 216.862,15 250,15Z" style="fill:white;"/>
+        <path id="Path2" serif:id="Path" d="M427,217C460.138,217 487,243.862 487,277L487,425C487,458.138 460.138,485 427,485C393.862,485 367,458.138 367,425L367,277C367,243.862 393.862,217 427,217Z" style="fill:white;"/>
+    </g>
+</svg>

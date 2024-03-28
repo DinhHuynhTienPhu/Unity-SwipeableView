@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="Checkmark--Bold-" serif:id="Checkmark (Bold)" transform="matrix(1.13547,0,0,1.13547,-58.4386,-58.5586)">
+        <g transform="matrix(0.58861,0.58861,-1.00161,1.00161,280.634,-119.833)">
+            <path d="M200.039,132.907C200.039,122.018 184.996,113.177 166.467,113.177C147.938,113.177 132.895,122.018 132.895,132.907L132.895,238.795C132.895,249.683 147.938,258.524 166.467,258.524C184.996,258.524 200.039,249.683 200.039,238.795L200.039,132.907Z" style="fill:white;"/>
+        </g>
+        <g transform="matrix(-0.58861,0.58861,0.6186,0.6186,91.1036,-26.9748)">
+            <path d="M200.039,145.122C200.039,127.491 184.996,113.177 166.467,113.177C147.938,113.177 132.895,127.491 132.895,145.122L132.895,226.579C132.895,244.21 147.938,258.524 166.467,258.524C184.996,258.524 200.039,244.21 200.039,226.579L200.039,145.122Z" style="fill:white;"/>
+        </g>
+    </g>
+</svg>

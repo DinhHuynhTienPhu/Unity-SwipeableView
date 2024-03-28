@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="Pencil" transform="matrix(0.637429,0.637429,-0.637429,0.637429,130.645,-59.4792)">
+        <g transform="matrix(1,0,0,0.809378,-1.62404,-3.95227)">
+            <path d="M186.87,35.937C186.87,33.398 186.053,30.963 184.6,29.167C183.147,27.372 181.176,26.363 179.121,26.363C163.733,26.363 129.484,26.363 114.096,26.363C112.041,26.363 110.07,27.372 108.617,29.167C107.163,30.963 106.347,33.398 106.347,35.937C106.347,72.491 106.347,201.21 106.347,201.21L186.87,201.21L186.87,35.937Z" style="fill:white;"/>
+        </g>
+        <g>
+            <g transform="matrix(0.999717,5.59456e-17,-2.01379e-17,-0.195415,-1.58252,257.028)">
+                <rect x="106.347" y="26.363" width="80.523" height="174.847" style="fill:white;"/>
+            </g>
+            <g transform="matrix(1.00748,3.07719e-17,-3.07719e-17,-0.756211,0.574334,536.873)">
+                <path d="M136.688,300.622C138.066,297.467 140.598,295.526 143.337,295.526C146.077,295.526 148.609,297.467 149.986,300.622C161.349,326.652 183.288,376.916 183.288,376.916L103.386,376.916C103.386,376.916 125.326,326.652 136.688,300.622Z" style="fill:white;"/>
+            </g>
+        </g>
+        <g transform="matrix(0.999717,5.59456e-17,-2.01379e-17,-0.195415,-1.58252,210.541)">
+            <rect x="106.347" y="26.363" width="80.523" height="174.847" style="fill:white;"/>
+        </g>
+    </g>
+</svg>

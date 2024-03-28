@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="Emoji---Shocked" serif:id="Emoji - Shocked" transform="matrix(1.29117,0,0,1.29117,-37.27,-37.27)">
+        <g transform="matrix(1.57425,0,0,1.57425,-7945.93,-2214.41)">
+            <circle cx="5128.76" cy="1487.95" r="61.734" style="fill:rgb(255,216,0);"/>
+        </g>
+        <g transform="matrix(1,0,0,-1,1.81899e-12,291.291)">
+            <g transform="matrix(5.44249,1.45831,-1.13733,4.24456,-25802.5,-11366.3)">
+                <circle cx="4965.19" cy="1006.27" r="3.19" style="fill:rgb(255,158,6);"/>
+            </g>
+            <g transform="matrix(5.44249,-1.45831,1.13733,4.24456,-27987.4,3115.25)">
+                <circle cx="4965.19" cy="1006.27" r="3.19" style="fill:rgb(255,158,6);"/>
+            </g>
+        </g>
+        <g transform="matrix(0.388073,0,0,0.747054,-2652.62,-697.272)">
+            <path d="M7200.95,1119.08C7200.95,1108.82 7184.93,1100.5 7165.19,1100.5C7145.45,1100.5 7129.43,1108.82 7129.43,1119.08L7129.43,1120.8C7129.43,1131.05 7145.45,1139.38 7165.19,1139.38C7184.93,1139.38 7200.95,1131.05 7200.95,1120.8L7200.95,1119.08Z" style="fill:rgb(130,10,0);"/>
+            <clipPath id="_clip1">
+                <path d="M7200.95,1119.08C7200.95,1108.82 7184.93,1100.5 7165.19,1100.5C7145.45,1100.5 7129.43,1108.82 7129.43,1119.08L7129.43,1120.8C7129.43,1131.05 7145.45,1139.38 7165.19,1139.38C7184.93,1139.38 7200.95,1131.05 7200.95,1120.8L7200.95,1119.08Z"/>
+            </clipPath>
+            <g clip-path="url(#_clip1)">
+                <g transform="matrix(1.74311,0,0,1,-5450.09,334.795)">
+                    <circle cx="7236.38" cy="818.842" r="25.228" style="fill:rgb(236,33,0);"/>
+                </g>
+            </g>
+        </g>
+        <g transform="matrix(2.51855,0,0,2.38319,-12306.5,277.201)">
+            <g transform="matrix(-0.273664,0,0,0.289207,6894.23,-263.45)">
+                <circle cx="7203.65" cy="665.093" r="26.437" style="fill:white;"/>
+            </g>
+            <g transform="matrix(-0.273664,0,0,0.289207,6922.85,-263.45)">
+                <circle cx="7203.65" cy="665.093" r="26.437" style="fill:white;"/>
+            </g>
+            <g transform="matrix(-0.0975922,0,0,0.103135,5654.49,-139.695)">
+                <circle cx="7203.65" cy="665.093" r="26.437" style="fill:rgb(32,37,41);"/>
+            </g>
+            <g transform="matrix(-0.0975922,0,0,0.103135,5625.87,-139.695)">
+                <circle cx="7203.65" cy="665.093" r="26.437" style="fill:rgb(32,37,41);"/>
+            </g>
+        </g>
+    </g>
+</svg>

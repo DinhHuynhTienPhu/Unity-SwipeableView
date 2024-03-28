@@ -1,5 +1,6 @@
 ﻿using System.Linq;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 namespace SwipeableView
 {
@@ -8,9 +9,10 @@ namespace SwipeableView
         [SerializeField]
         private UISwipeableViewLoadTexture swipeableView = default;
 
-        private static readonly string[] _imageUrls =
+        [SerializeField]
+        public static readonly string[] _imageUrls =
         {
-            "https://images.pexels.com/photos/1245063/pexels-photo-1245063.jpeg?cs=srgb&dl=agriculture-countryside-crop-1245063.jpg&fm=jpg",
+            "https://simple-server-4et5.onrender.com/file?name=flower.png",
             "https://images.pexels.com/photos/1232594/pexels-photo-1232594.jpeg?cs=srgb&dl=alps-clouds-dawn-1232594.jpg&fm=jpg",
             "https://images.pexels.com/photos/1212487/pexels-photo-1212487.jpeg?cs=srgb&dl=android-wallpaper-bloom-blossom-1212487.jpg&fm=jpg",
             "https://images.pexels.com/photos/899634/pexels-photo-899634.jpeg?cs=srgb&dl=arch-architecture-building-899634.jpg&fm=jpg",
@@ -39,6 +41,9 @@ namespace SwipeableView
         {
             if (swipeableView.IsAutoSwiping) return;
             swipeableView.AutoSwipe(SwipeDirection.Left);
+        }
+        public void OnStartChat(){
+            SceneManager.LoadScene(1);
         }
     }
 }

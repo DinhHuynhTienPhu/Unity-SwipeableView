@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g id="Hanger" transform="matrix(5.82226,0,0,5.82226,-13702.1,-5272.26)">
+        <g transform="matrix(1,0,0,1,26.6006,-0.704912)">
+            <path d="M2343.93,913.926C2343.93,911.223 2346.12,909.028 2348.82,909.028C2351.53,909.028 2353.72,911.223 2353.72,913.926C2353.72,916.629 2351.53,918.824 2348.82,918.824L2348.82,923.366" style="fill:none;stroke:white;stroke-width:4.67px;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,26.9969,-0.227402)">
+            <path d="M2348.39,922.889C2348.39,922.889 2359.22,933.149 2366.74,940.268C2367.88,941.356 2368.25,943.036 2367.67,944.507C2367.08,945.978 2365.66,946.943 2364.08,946.943C2355.06,946.943 2341.71,946.943 2332.7,946.943C2331.12,946.943 2329.69,945.978 2329.11,944.507C2328.52,943.036 2328.89,941.356 2330.04,940.268C2337.55,933.149 2348.39,922.889 2348.39,922.889Z" style="fill:none;stroke:white;stroke-width:4.67px;"/>
+        </g>
+    </g>
+</svg>

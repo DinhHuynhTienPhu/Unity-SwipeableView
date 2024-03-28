@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g id="Glasses---Circle" serif:id="Glasses - Circle" transform="matrix(1.60798,0,0,1.29563,-9823.52,-2187.82)">
+        <g transform="matrix(0.997903,0,0,1.23848,4864.42,936.134)">
+            <circle cx="1286.95" cy="687.354" r="31.048" style="fill:none;stroke:white;stroke-width:7.12px;"/>
+        </g>
+        <g transform="matrix(0.997903,0,0,1.23848,4944.72,936.134)">
+            <circle cx="1286.95" cy="687.354" r="31.048" style="fill:none;stroke:white;stroke-width:7.12px;"/>
+        </g>
+        <g transform="matrix(0.787706,0,0,0.97761,5144.02,1111.76)">
+            <path d="M1316.86,691.123L1335.63,691.123" style="fill:none;stroke:white;stroke-width:9.02px;"/>
+        </g>
+    </g>
+</svg>

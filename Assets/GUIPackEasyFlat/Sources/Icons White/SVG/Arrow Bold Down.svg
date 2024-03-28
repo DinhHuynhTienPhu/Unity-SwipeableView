@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="Arrow-Bold-Down" serif:id="Arrow Bold Down" transform="matrix(0.954244,0,0,0.954244,5.85681,-1.96262)">
+        <g transform="matrix(0.771492,0,0,1.05771,29.1049,0.276902)">
+            <path d="M178.608,42.014C178.608,21.716 156.015,5.237 128.187,5.237C100.358,5.237 77.765,21.716 77.765,42.014L77.765,152.481C77.765,172.779 100.358,189.258 128.187,189.258C156.015,189.258 178.608,172.779 178.608,152.481L178.608,42.014Z" style="fill:white;"/>
+        </g>
+        <g transform="matrix(1.23652,-2.6394e-17,2.6394e-17,-1.45204,-29.5449,470.939)">
+            <path d="M114.436,153.886C117.656,150.624 122.405,148.741 127.41,148.741C132.415,148.741 137.164,150.624 140.384,153.886C155.341,169.037 180.22,194.238 198.587,212.842C202.828,217.138 203.761,223.137 200.978,228.225C198.196,233.312 192.203,236.565 185.613,236.565C152.119,236.565 102.701,236.565 69.207,236.565C62.617,236.565 56.624,233.312 53.842,228.225C51.06,223.137 51.992,217.138 56.233,212.842C74.6,194.238 99.479,169.037 114.436,153.886Z" style="fill:white;"/>
+        </g>
+    </g>
+</svg>

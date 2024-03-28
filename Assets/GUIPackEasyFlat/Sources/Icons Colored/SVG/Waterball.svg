@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="Waterball" transform="matrix(4.16124,0,0,4.16124,-5728.84,-6654.96)">
+        <circle cx="1407.47" cy="1630.03" r="28.366" style="fill:rgb(243,249,255);"/>
+        <clipPath id="_clip1">
+            <circle cx="1407.47" cy="1630.03" r="28.366"/>
+        </clipPath>
+        <g clip-path="url(#_clip1)">
+            <g transform="matrix(0.240313,0,0,0.240313,1376.71,1599.27)">
+                <path d="M157.472,242.321C112.309,190.55 101.923,53.437 101.923,53.437C101.923,53.437 209.257,92.051 245.313,141.126C239.872,190.22 204.269,230.274 157.472,242.321Z" style="fill:rgb(255,93,93);"/>
+            </g>
+            <g transform="matrix(0.240313,0,0,0.240313,1376.71,1599.27)">
+                <path d="M31.693,59.774C67.554,37.316 93.863,51.081 93.863,51.081L97.117,57.464C47.683,91.011 29.999,132.973 20.666,177.147C13.796,162.187 9.963,145.537 9.963,128C9.963,102.586 18.012,79.038 31.693,59.774ZM-17.636,117.951L-17.636,156.573C-21.574,144.223 -22.059,131.414 -17.636,117.951Z" style="fill:rgb(252,196,25);"/>
+            </g>
+            <g transform="matrix(0.240313,0,0,0.240313,1376.71,1599.27)">
+                <path d="M120.046,10.228C122.679,10.052 125.329,9.963 128,9.963C152.782,9.963 175.79,17.617 194.784,30.684C167.576,28.231 140.825,30.45 115.151,43.583L97.117,34.456C103.788,23.486 111.365,15.215 120.046,10.228Z" style="fill:rgb(50,221,247);"/>
+            </g>
+            <g transform="matrix(0.796002,-0.54516,0.566644,0.82737,-625.003,1039.59)">
+                <ellipse cx="1397.24" cy="1613.04" rx="6.26" ry="5.31" style="fill:white;"/>
+            </g>
+        </g>
+    </g>
+</svg>

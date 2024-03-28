@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g id="Emoji---Smile-Cute" serif:id="Emoji - Smile Cute" transform="matrix(1.29117,0,0,1.29117,-37.27,-37.27)">
+        <g transform="matrix(1.57425,0,0,1.57425,-7945.93,-2214.41)">
+            <circle cx="5128.76" cy="1487.95" r="61.734" style="fill:rgb(255,216,0);"/>
+        </g>
+        <g transform="matrix(1,0,0,1,-1.99589,0)">
+            <g transform="matrix(5.44249,-1.45831,1.13733,4.24456,-28081,3110.91)">
+                <circle cx="4965.19" cy="1006.27" r="3.19" style="fill:rgb(255,158,6);"/>
+            </g>
+            <g transform="matrix(5.44249,1.45831,-1.13733,4.24456,-25705,-11370.7)">
+                <circle cx="4965.19" cy="1006.27" r="3.19" style="fill:rgb(255,158,6);"/>
+            </g>
+        </g>
+        <g transform="matrix(1.60439,0,0,1.51816,-7674.79,-904.817)">
+            <g transform="matrix(0.620512,0,0,0.655755,273.389,-93.7219)">
+                <path d="M7343.63,1151.92L7363.55,1162.35L7343.63,1171.98" style="fill:none;stroke:rgb(41,47,51);stroke-width:7.26px;"/>
+            </g>
+            <g transform="matrix(-0.620512,0,0,0.655755,9453.42,-93.7219)">
+                <path d="M7343.63,1151.92L7363.55,1162.35L7343.63,1171.98" style="fill:none;stroke:rgb(41,47,51);stroke-width:7.26px;"/>
+            </g>
+            <g transform="matrix(0.620512,0,0,0.655755,273.389,-93.7219)">
+                <path d="M7377.09,1174.92C7377.09,1188.43 7398.32,1188.43 7398.32,1174.92" style="fill:none;stroke:rgb(118,35,0);stroke-width:7.26px;"/>
+            </g>
+            <g transform="matrix(0.620512,0,0,0.655755,286.76,-93.7219)">
+                <path d="M7377.09,1174.92C7377.09,1188.43 7398.32,1188.43 7398.32,1174.92" style="fill:none;stroke:rgb(118,35,0);stroke-width:7.26px;"/>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="Egg-Fried" serif:id="Egg Fried" transform="matrix(5.42678,3.13315,-3.14792,5.45236,-64927.7,-40906.4)">
+        <g transform="matrix(0.217658,1.03417e-17,-3.08795e-17,0.216637,9894.73,317.078)">
+            <path d="M10851.1,676.764C10856.2,675.863 10861.2,674.169 10865.8,671.744C10876.6,665.949 10889,662.684 10902.2,662.684C10945.3,662.684 10980.3,697.678 10980.3,740.78C10980.3,783.882 10945.3,818.875 10902.2,818.875C10889,818.875 10876.6,815.61 10865.8,809.847C10861.2,807.423 10856.2,805.731 10851.1,804.83C10820.5,799.521 10797.3,772.849 10797.3,740.78C10797.3,708.711 10820.5,682.038 10851.1,676.764Z" style="fill:white;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,-2.84217e-14,2.84513)">
+            <g transform="matrix(0.680521,0,0,0.677328,4080.36,162.481)">
+                <circle cx="12018.2" cy="460.977" r="12.79" style="fill:rgb(255,139,0);"/>
+            </g>
+            <g transform="matrix(0.163572,0,0,0.162805,10291,396.336)">
+                <circle cx="12018.2" cy="460.977" r="12.79" style="fill:rgb(255,211,0);"/>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,28 @@
+*.csproj
+*.sln
+Library/
+Temp/
+obj/
+Test.apk
+.idea/
+*.apk
+Screenshots/
+Recordings/
+.vscode/launch.json
+.vs/carparkpuzzle3d/xs/project-cache/Assembly-CSharp-Debug.json
+.vs/carparkpuzzle3d/xs/project-cache/Assembly-CSharp-Editor-Debug.json
+.vs/carparkpuzzle3d/xs/project-cache/Assembly-CSharp-firstpass-Debug.json
+.vs/carparkpuzzle3d/xs/project-cache/Google.Android.AppBundle.Editor-Debug.json
+.vs/carparkpuzzle3d/xs/project-cache/Google.Play.Common-Debug.json
+.vs/carparkpuzzle3d/xs/project-cache/Google.Play.Core-Debug.json
+.vs/carparkpuzzle3d/xs/project-cache/Google.Play.Review-Debug.json
+.vs/carparkpuzzle3d/xs/project-cache/Sirenix.OdinInspector.CompatibilityLayer-Debug.json
+.vs/carparkpuzzle3d/xs/project-cache/Sirenix.OdinInspector.CompatibilityLayer.Editor-Debug.json
+Assets/Park Inc/Game/Materials/ParkingPattern.mat
+Assets/Park Inc/Game/Materials/ParkingPattern.mat
+.crashlytics/
+CarPark3d.aab
+CarPark3d1.aab
+Logs/
+SerializedBuildInfo/
+Build/

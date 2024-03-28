@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(0.24874,0,0,0.309509,41.6306,12.3045)">
+        <g id="Coins-Basic" serif:id="Coins Basic">
+            <g id="Coins">
+                <path id="Ellipse" d="M0.636,634.978C0.636,573.158 155.804,523.045 347.225,523.045C538.642,523.045 693.814,573.158 693.814,634.978C693.814,696.796 538.642,746.909 347.225,746.909C155.804,746.909 0.636,696.796 0.636,634.978Z" style="fill:rgb(255,221,42);fill-rule:nonzero;"/>
+                <rect x="0.64" y="120.091" width="693.178" height="522.349" style="fill:rgb(255,221,42);"/>
+                <path id="Ellipse2" d="M0.636,112.628C0.636,50.81 155.804,0.697 347.225,0.697C538.642,0.697 693.814,50.81 693.814,112.628C693.814,174.447 538.642,224.561 347.225,224.561C155.804,224.561 0.636,174.447 0.636,112.628Z" style="fill:rgb(255,255,104);fill-rule:nonzero;"/>
+                <g transform="matrix(1,0,0,1,0,9.9356)">
+                    <path d="M0.636,540.621C53.01,583.642 190.116,621.317 351.015,621.317C504.675,621.317 636.638,586.332 693.818,546.341L693.818,471.398C636.618,511.378 504.648,546.348 351.015,546.348C190.152,546.348 53.038,508.684 0.636,465.678L0.636,540.621Z" style="fill:rgb(242,184,0);fill-rule:nonzero;"/>
+                </g>
+                <g transform="matrix(1,0,0,1,0,9.9356)">
+                    <path d="M0.636,330.716C53.01,373.737 190.116,411.405 351.015,411.405C504.675,411.405 636.638,376.427 693.818,336.436L693.818,261.492C636.618,301.473 504.648,336.436 351.015,336.436C190.152,336.436 53.038,298.779 0.636,255.773L0.636,330.716Z" style="fill:rgb(242,184,0);fill-rule:nonzero;"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

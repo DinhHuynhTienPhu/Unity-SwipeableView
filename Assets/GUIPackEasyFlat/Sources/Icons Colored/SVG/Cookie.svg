@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="Cookie" transform="matrix(3.04637,0,0,2.57426,-16845.7,-4090.4)">
+        <g transform="matrix(0.995135,0,0,1.17764,-1336.82,-370.226)">
+            <circle cx="6942.38" cy="1705.63" r="38.857" style="fill:rgb(240,165,82);"/>
+        </g>
+        <g>
+            <g transform="matrix(1.18202,0,0,1.39879,-2677.04,-769.612)">
+                <circle cx="6978.61" cy="1700.36" r="6.54" style="fill:rgb(143,83,72);"/>
+            </g>
+            <g transform="matrix(1.18202,0,0,1.39879,-2677.04,-710.497)">
+                <circle cx="6978.61" cy="1700.36" r="6.54" style="fill:rgb(143,83,72);"/>
+            </g>
+        </g>
+        <g transform="matrix(-0.5,1.02485,-0.731813,-0.5,9556.67,-3252.66)">
+            <g transform="matrix(1.18202,0,0,1.39879,-2677.04,-769.612)">
+                <circle cx="6978.61" cy="1700.36" r="6.54" style="fill:rgb(143,83,72);"/>
+            </g>
+            <g transform="matrix(1.18202,0,0,1.39879,-2677.04,-710.497)">
+                <circle cx="6978.61" cy="1700.36" r="6.54" style="fill:rgb(143,83,72);"/>
+            </g>
+        </g>
+        <g transform="matrix(0.5,1.02485,-0.731813,0.5,3984.89,-4891.05)">
+            <g transform="matrix(1.18202,0,0,1.39879,-2677.04,-769.612)">
+                <circle cx="6978.61" cy="1700.36" r="6.54" style="fill:rgb(143,83,72);"/>
+            </g>
+            <g transform="matrix(1.18202,0,0,1.39879,-2677.04,-710.497)">
+                <circle cx="6978.61" cy="1700.36" r="6.54" style="fill:rgb(143,83,72);"/>
+            </g>
+        </g>
+        <g transform="matrix(1.18202,0,0,1.39879,-2677.04,-740.055)">
+            <circle cx="6978.61" cy="1700.36" r="6.54" style="fill:rgb(143,83,72);"/>
+        </g>
+    </g>
+</svg>

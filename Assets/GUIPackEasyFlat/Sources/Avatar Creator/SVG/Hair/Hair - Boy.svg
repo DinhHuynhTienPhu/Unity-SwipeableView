@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="Hair---Boy" serif:id="Hair - Boy" transform="matrix(2.32572,0,0,1.87394,-14138.1,-3090.63)">
+        <g transform="matrix(0.787706,0,0,0.97761,6078.82,1597.34)">
+            <path d="M74.232,168.808C74.232,168.808 37.268,143.993 43.04,130.273L230.919,127.809L235.017,207.719L194.467,162.268L210.553,214.123L102.826,152.739L151.536,194.328L74.232,168.808Z" style="fill:white;fill-opacity:0.25;"/>
+        </g>
+        <g transform="matrix(0.787706,0,0,0.97761,6078.82,1591.8)">
+            <path d="M35.313,191.723C34.767,187.601 34.458,180.259 34.458,175.944C34.458,119.541 67.509,74.158 139.824,74.158C212.139,74.158 245.542,121.752 245.542,178.155C245.542,182.378 245.48,187.768 244.957,191.805L235.676,190.831C235.676,190.831 235.309,200.236 235.017,207.719C234.976,208.77 194.467,162.268 194.467,162.268L214.842,213.21L102.826,152.739L155.515,190.831L74.232,168.808C74.232,168.808 44.711,210.149 44.454,209.174C44.043,205.484 43.144,199.936 43.04,192.541L35.313,191.723Z" style="fill:white;"/>
+        </g>
+    </g>
+</svg>

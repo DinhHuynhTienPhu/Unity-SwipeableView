@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="Clothing---Underwear--Icon-" serif:id="Clothing - Underwear (Icon)" transform="matrix(3.7452,0,0,3.7452,-9388.72,-1647.99)">
+        <g transform="matrix(0.317091,0,0,0.376635,2208.95,131.528)">
+            <rect x="975.13" y="937.901" width="61.157" height="56.895" style="fill:white;"/>
+        </g>
+        <g transform="matrix(0.159697,0,0,0.37123,2372.06,136.904)">
+            <rect x="975.13" y="937.901" width="61.157" height="56.895" style="fill:rgb(248,249,250);"/>
+        </g>
+        <g transform="matrix(0.435264,0,0,0.132099,2103.35,360.878)">
+            <rect x="975.13" y="937.901" width="61.157" height="56.895" style="fill:rgb(248,249,250);"/>
+        </g>
+        <g transform="matrix(0.317091,0,0,0.244536,2235.34,262.939)">
+            <rect x="975.13" y="937.901" width="61.157" height="56.895" style="fill:white;"/>
+        </g>
+        <g transform="matrix(0.15585,0,0,0.376635,2402.43,131.528)">
+            <rect x="975.13" y="937.901" width="61.157" height="56.895" style="fill:rgb(248,249,250);"/>
+        </g>
+        <g transform="matrix(1,0,0,1,2056.62,-414.432)">
+            <path d="M507.305,881.52L507.305,901.499L461.559,901.499L461.559,881.516C464.614,880.077 467.565,875.972 468.983,870.681C470.303,865.756 469.958,861.055 468.35,858.192C470.178,857.202 472.272,856.639 474.496,856.639L476.643,856.639C476.669,860.917 480.149,864.381 484.432,864.381C488.715,864.381 492.196,860.917 492.221,856.639L494.369,856.639C496.59,856.639 498.681,857.2 500.509,858.189C498.899,861.051 498.553,865.753 499.873,870.681C501.292,875.977 504.248,880.085 507.305,881.52Z" style="fill:white;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,2056.62,-414.432)">
+            <path d="M507.305,881.52L507.305,901.499L484.432,901.499L484.432,864.381C488.715,864.381 492.196,860.917 492.221,856.639L494.369,856.639C496.59,856.639 498.681,857.2 500.509,858.189C498.899,861.051 498.553,865.753 499.873,870.681C501.292,875.977 504.248,880.085 507.305,881.52Z" style="fill:rgb(248,249,250);"/>
+        </g>
+        <g transform="matrix(0.296322,0,0,0.296322,1143.55,267.292)">
+            <g transform="matrix(1,0,0,1,0.893299,-2.27374e-13)">
+                <circle cx="4715.24" cy="640.704" r="5.511" style="fill:rgb(173,181,189);"/>
+            </g>
+            <g transform="matrix(1,0,0,1,0.893299,33.8285)">
+                <circle cx="4715.24" cy="640.704" r="5.511" style="fill:rgb(173,181,189);"/>
+            </g>
+            <g transform="matrix(1,0,0,1,0.893299,67.657)">
+                <circle cx="4715.24" cy="640.704" r="5.511" style="fill:rgb(173,181,189);"/>
+            </g>
+        </g>
+    </g>
+</svg>

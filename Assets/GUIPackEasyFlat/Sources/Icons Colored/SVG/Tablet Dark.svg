@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="Tablet-Dark" serif:id="Tablet Dark" transform="matrix(1.05502,0,0,1.05502,-7.0421,-7.05028)">
+        <g transform="matrix(1.0445,0,0,1,-6.83076,-0.0446806)">
+            <path d="M215.014,29.991C215.014,19.608 206.943,11.177 197.001,11.177L61.171,11.177C51.23,11.177 43.159,19.608 43.159,29.991L43.159,226.098C43.159,236.482 51.23,244.912 61.171,244.912L197.001,244.912C206.943,244.912 215.014,236.482 215.014,226.098L215.014,29.991Z" style="fill:rgb(52,58,64);"/>
+        </g>
+        <g transform="matrix(0.973977,0,0,0.989983,3.41987,-19.9888)">
+            <rect x="53.869" y="50.302" width="148.079" height="173.268" style="fill:rgb(94,142,190);"/>
+        </g>
+        <g transform="matrix(0.973977,0,0,0.989983,3.41987,-19.9888)">
+            <path d="M201.948,50.302L85.304,50.302L160.828,223.57L201.948,223.57L201.948,50.302Z" style="fill:white;fill-opacity:0.15;"/>
+        </g>
+        <g transform="matrix(1.21503,0,0,1.21503,-24.7464,-49.012)">
+            <circle cx="125.714" cy="223.068" r="5.982" style="fill:rgb(94,142,190);"/>
+        </g>
+    </g>
+</svg>

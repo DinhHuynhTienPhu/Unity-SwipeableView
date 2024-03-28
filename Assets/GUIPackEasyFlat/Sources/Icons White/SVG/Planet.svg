@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g id="Planet" transform="matrix(2.2102,-2.2102,4.34347,4.34347,-15111.5,18145.6)">
+        <g transform="matrix(0.721113,0,0,0.366942,-6215.75,-1004.15)">
+            <path d="M19096,1890.12C19087.4,1904.94 19071.3,1914.91 19052.9,1914.91C19034.5,1914.91 19018.4,1904.94 19009.8,1890.12C19022.6,1891.12 19037.3,1891.7 19052.9,1891.7C19068.5,1891.7 19083.2,1891.12 19096,1890.12ZM19003,1862.87C19004.2,1836.3 19026.1,1815.07 19052.9,1815.07C19079.8,1815.07 19101.7,1836.3 19102.8,1862.87C19088.6,1864.27 19071.4,1865.08 19052.9,1865.08C19034.4,1865.08 19017.2,1864.27 19003,1862.87Z" style="fill:white;"/>
+        </g>
+        <g transform="matrix(1.04424,0,0,0.0946623,-12372.3,-496.346)">
+            <circle cx="19052.9" cy="1864.99" r="49.918" style="fill:none;stroke:white;stroke-width:7.33px;"/>
+        </g>
+    </g>
+</svg>

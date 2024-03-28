@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="Credit-Card" serif:id="Credit Card" transform="matrix(9.16587,0,0,9.16587,-7653.83,-27905.8)">
+        <path d="M858,3067L840,3067C838.343,3067 837,3065.66 837,3064L837,3056L861,3056L861,3064C861,3065.66 859.657,3067 858,3067ZM844,3063C844,3062.45 843.552,3062 843,3062C842.389,3062 841.611,3062 841,3062C840.448,3062 840,3062.45 840,3063C840,3063 840,3063 840,3063C840,3063.55 840.448,3064 841,3064C841.611,3064 842.389,3064 843,3064C843.552,3064 844,3063.55 844,3063C844,3063 844,3063 844,3063ZM852,3063C852,3062.45 851.552,3062 851,3062L847,3062C846.448,3062 846,3062.45 846,3063L846,3063C846,3063.55 846.448,3064 847,3064L851,3064C851.552,3064 852,3063.55 852,3063L852,3063ZM840,3050L858,3050C859.657,3050 861,3051.34 861,3053L837,3053C837,3051.34 838.343,3050 840,3050Z" style="fill:white;"/>
+    </g>
+</svg>
